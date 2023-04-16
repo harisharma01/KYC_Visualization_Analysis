@@ -1,0 +1,101 @@
+Title,Current phase,Created at,Deal type,Insurer Name,First time enter KYC incomplete status,Last time exit KYC incomplete status,First time enter Waiting on the insurer status,Last time exit Waiting on the insurer status,First time enter Waiting on product status,Last time exit Waiting on product status,Total time in Waiting on product (days),Customer category,Which policy did you sell to this customer?,Premium (inc GST),No. of lives,C-sat,Team Emp ID,Team member name
+Customer 1,KYC incomplete,2022-04-29 09:06:20,Fresh,Aditya Birla,2022-05-02 05:15:07,,,,,,,CAT A,GMC,41991,7,9,4,Kumar
+Customer 2,Onboarding is complete,2022-03-30 10:35:05,Market renewal,New India,2022-04-01 06:42:10,2022-04-05 17:04:10,2022-04-11 16:17:20,2022-04-27 09:00:16,2022-04-27 09:00:16,2022-04-30 02:54:41,2.746111,CAT D,GMC,7263660,151,2,3,Mitali
+Customer 3,Onboarding is complete,2022-02-06 08:03:41,Plum Renewal,ICICI Lombard,,,,,,,,CAT A,GMC,58917,4,9,2,Shree
+Customer 4,Onboarding is complete,2022-02-17 08:46:30,Fresh,Care Health,2022-02-18 13:46:42,2022-02-22 04:21:07,,,,,,CAT A,GMC,23454,3,1,4,Kumar
+Customer 5,Waiting on customer for employee training,2022-03-31 20:24:00,Fresh,Care Health,2022-04-01 06:37:37,2022-04-07 05:51:03,,,,,,CAT A,GMC,35382,3,6,1,Gowri
+Customer 6,Onboarding is complete,2022-03-10 05:08:53,Plum Renewal,ICICI Lombard,2022-03-10 06:05:42,2022-03-14 04:39:38,,,,,,CAT A,GMC,44750,7,5,5,Sandeep
+Customer 7,KYC incomplete,2022-04-25 20:33:22,Fresh,GoDigit,2022-04-26 13:55:41,,,,,,,CAT A,GMC,32422,5,9,1,Gowri
+Customer 8,Onboarding is complete,2022-02-08 20:01:00,Fresh,Care Health,2022-02-09 06:28:45,2022-02-09 13:22:36,,,2022-02-22 05:50:35,2022-02-25 12:49:09,3.29066,CAT A,GMC,154500,2,5,1,Gowri
+Customer 9,Onboarding is complete,2022-02-26 09:23:54,Plum Renewal,GoDigit,2022-02-28 07:02:24,2022-03-09 05:24:07,,,,,,CAT A,GMC,46655,9,7,5,Sandeep
+Customer 10,Waiting on customer to schedule HR session,2022-04-01 15:08:10,Plum Renewal,GoDigit,2022-04-03 21:45:31,2022-04-13 03:20:06,,,,,,CAT B,GMC,13667,9,5,1,Gowri
+Customer 11,Waiting on insurer to collect policy doc and invoices,2022-04-27 14:06:28,Fresh,Care Health,2022-04-28 06:46:08,2022-05-02 08:40:54,,,,,,CAT A,GMC,7969,12,9,4,Kumar
+Customer 12,Waiting on customer for employee training,2022-03-12 05:35:44,Plum Renewal,ICICI Lombard,,,2022-03-22 11:20:23,2022-03-28 04:36:33,,,,CAT A,GMC,31429,10,1,4,Kumar
+Customer 13,Waiting on the insurer for health IDs,2022-04-04 09:53:24,Fresh,ICICI Lombard,2022-04-05 02:31:35,2022-04-13 06:45:52,2022-05-02 07:32:33,,,,,CAT B,GMC,279039,10,10,5,Sandeep
+Customer 14,Onboarding is complete,2022-02-28 12:11:21,Fresh,Max Bupa,2022-03-02 06:55:55,2022-03-02 09:01:09,,,,,,CAT B,GMC,42687,8,9,1,Gowri
+Customer 15,KYC incomplete,2022-04-30 05:06:38,Fresh,Care Health,2022-05-01 16:05:08,,,,,,,CAT A,GMC,1384,6,8,5,Sandeep
+Customer 16,Waiting on product,2022-04-05 06:03:26,Plum Renewal,Star Health,2022-04-05 14:42:09,2022-04-07 06:26:50,,,2022-04-18 06:33:12,,14.236863,CAT B,GMC,69686,42,8,2,Shree
+Customer 17,Onboarding is complete,2022-03-14 09:29:01,Fresh,ICICI Lombard,2022-03-14 15:03:49,2022-03-15 08:41:15,,,,,,CAT B,GMC,134395,23,6,4,Kumar
+Customer 18,New task,2022-04-29 14:38:22,Upsell,GoDigit,,,,,,,,CAT C,GTL,587034,42,4,1,Gowri
+Customer 19,Onboarding is complete,2022-01-03 08:53:02,Fresh,Care Health,2022-01-05 10:00:36,2022-01-12 17:24:59,,,,,,,GMC,25224,18,7,3,Mitali
+Customer 20,KYC incomplete,2022-04-30 19:28:22,Fresh,Care Health,2022-05-02 09:51:42,,,,,,,CAT A,GMC,176131,61,7,1,Gowri
+Customer 21,Onboarding is complete,2022-02-23 01:46:49,Market renewal,New India,,,,,,,,"CAT A, CAT C",GPA,57704,112,4,3,Mitali
+Customer 22,Onboarding is complete,2022-01-19 07:23:10,Market renewal,New India,2022-01-20 09:39:11,2022-01-30 13:54:08,2022-02-22 15:49:21,2022-03-02 04:25:38,,,,CAT C,GMC,1701776,481,4,1,Gowri
+Customer 23,Onboarding is complete,2022-02-16 06:54:35,Fresh,Max Bupa,2022-02-16 11:09:49,2022-02-23 04:55:27,2022-03-11 04:07:24,2022-03-17 05:14:01,,,,CAT B,GMC,401624,135,3,4,Kumar
+Customer 24,Onboarding is complete,2022-01-30 16:23:35,Fresh,Max Bupa,2022-01-31 10:33:55,2022-02-02 11:16:21,,,,,,CAT C,GMC,244209,35,10,4,Kumar
+Customer 25,Onboarding is complete,2022-01-29 17:18:17,Fresh,New India,2022-01-31 18:29:04,2022-02-01 12:33:16,2022-02-03 06:28:02,2022-02-12 06:43:44,2022-02-12 06:43:45,2022-03-14 14:50:04,30.33772,CAT B,GMC,618389,97,8,4,Kumar
+Customer 26,Waiting on customer for employee training,2022-02-21 12:35:39,Fresh,ICICI Lombard,2022-02-23 07:42:11,2022-03-04 03:59:11,,,,,,CAT B,GMC,204702,26,9,3,Mitali
+Customer 27,KYC incomplete,2022-04-27 19:51:42,Fresh,Care Health,2022-04-29 06:06:05,,,,,,,CAT A,GMC,36013,2,1,5,Sandeep
+Customer 28,Waiting on customer to schedule HR session,2022-04-13 17:18:16,Plum Renewal,ICICI Lombard,2022-04-14 07:12:01,2022-04-14 11:14:19,2022-04-22 06:34:00,2022-04-26 07:01:15,,,,CAT A,GMC,19041,15,3,4,Kumar
+Customer 29,Onboarding is complete,2022-01-28 05:39:09,Fresh,Care Health,2022-01-28 13:08:09,2022-02-01 04:50:20,,,,,,CAT A,GMC,1566,3,10,3,Mitali
+Customer 30,Onboarding is complete,2022-01-11 08:01:15,Fresh,Care Health,2022-01-12 19:41:23,2022-01-17 07:48:47,,,,,,,GMC,5297,11,2,1,Gowri
+Customer 31,Onboarding is complete,2022-02-13 10:49:11,Plum Renewal,GoDigit,,,,,,,,"CAT B, CAT C",GMC,82216,232,3,1,Gowri
+Customer 32,Onboarding is complete,2022-01-10 21:06:50,Plum Renewal,Aditya Birla,,,,,2022-03-14 04:32:11,2022-03-17 04:19:57,2.991493,,GMC,453222,74,2,2,Shree
+Customer 33,Waiting on customer to schedule HR session,2022-03-31 07:58:31,Fresh,Care Health,2022-04-01 07:37:32,2022-04-04 10:51:23,,,,,,CAT A,GMC,25655,5,9,3,Mitali
+Customer 34,Waiting on insurer to collect policy doc and invoices,2022-02-21 03:38:50,Market renewal,New India,2022-02-22 10:44:58,2022-03-08 06:47:58,,,,,,CAT C,GMC,1007783,25,2,2,Shree
+Customer 35,Onboarding is complete,2022-02-18 07:33:25,Fresh,ICICI Lombard,2022-02-19 08:37:44,2022-02-21 11:07:36,,,,,,CAT B,GMC,120334,22,2,1,Gowri
+Customer 36,Onboarding is complete,2022-02-15 04:35:32,Plum Renewal,ICICI Lombard,2022-02-15 10:42:34,2022-02-18 04:05:19,,,,,,CAT A,GMC,4744,0,1,4,Kumar
+Customer 37,Onboarding is complete,2022-01-25 13:19:21,Market renewal,New India,2022-01-30 17:32:49,2022-01-31 10:52:18,,,,,,CAT C,GMC,401348,84,4,2,Shree
+Customer 38,Onboarding is complete,2022-01-27 12:07:06,Market renewal,GoDigit,2022-01-31 04:19:11,2022-02-03 04:08:38,,,,,,CAT B,GMC,288557,77,8,2,Shree
+Customer 39,Waiting on customer for employee training,2022-03-31 20:33:44,Fresh,Care Health,2022-04-01 05:48:08,2022-04-06 02:45:55,,,,,,CAT A,GMC,176,1,6,2,Shree
+Customer 40,Waiting on insurer to collect policy doc and invoices,2022-04-12 08:00:07,Fresh,Aditya Birla,2022-04-13 11:14:45,2022-04-13 11:21:52,,,,,,CAT A,GMC,10136,10,5,2,Shree
+Customer 41,Onboarding is complete,2022-02-22 09:52:31,Fresh,IFFCO Tokkio,2022-02-23 08:08:13,2022-02-24 17:56:13,2022-03-03 04:06:19,2022-03-07 06:37:37,,,,CAT A,GMC,8045,6,1,2,Shree
+Customer 42,Waiting on customer for CD balance,2022-03-31 20:13:08,Fresh,Care Health,2022-04-01 07:06:29,2022-04-06 10:40:49,,,,,,CAT A,GMC,25925,7,10,1,Gowri
+Customer 43,Waiting on customer to schedule HR session,2022-04-05 19:47:57,Fresh,Care Health,2022-04-06 13:08:53,2022-04-08 10:35:48,,,,,,CAT A,GMC,146890,4,7,4,Kumar
+Customer 44,KYC incomplete,2022-04-25 10:33:43,Plum Renewal,Max Bupa,2022-04-26 05:48:23,,,,,,,CAT A,GMC,79055,24,9,1,Gowri
+Customer 45,Waiting on insurer to collect policy doc and invoices,2022-04-26 05:53:40,Plum Renewal,ICICI Lombard,2022-04-26 13:39:10,2022-04-28 13:37:26,,,,,,CAT A,GMC,18964,6,5,3,Mitali
+Customer 46,Onboarding is complete,2022-03-30 15:22:23,Fresh,ICICI Lombard,2022-03-31 04:56:26,2022-04-05 14:02:15,,,,,,CAT B,GMC,488240,60,3,1,Gowri
+Customer 47,Onboarding is complete,2022-01-22 16:35:43,Market renewal,New India,2022-01-24 06:36:14,2022-01-27 07:08:34,2022-02-03 09:36:11,2022-02-04 07:30:22,,,,CAT B,GMC,582504,68,9,2,Shree
+Customer 48,Onboarding is complete,2022-03-10 12:00:00,Market renewal,Max Bupa,2022-03-11 02:36:09,2022-03-12 06:57:06,,,,,,"CAT A, CAT B",GMC,284454,30,8,5,Sandeep
+Customer 49,Onboarding is complete,2022-03-10 15:24:20,Plum Renewal,ICICI Lombard,2022-03-12 20:17:10,2022-03-13 00:48:07,,,,,,"CAT A, CAT B",GMC,269282,28,9,2,Shree
+Customer 50,Waiting on customer for employee training,2022-03-31 17:17:18,Fresh,Care Health,2022-04-01 07:07:33,2022-04-06 12:13:13,,,,,,CAT A,GMC,67593,16,7,4,Kumar
+Customer 51,Onboarding is complete,2022-02-04 06:27:02,Plum Renewal,ICICI Lombard,2022-02-04 08:19:33,2022-02-09 07:22:00,,,,,,CAT A,GMC,220722,31,4,4,Kumar
+Customer 52,Onboarding is complete,2022-02-25 11:37:44,,Healthians,2022-02-28 04:37:26,2022-03-03 03:18:36,2022-03-31 06:37:44,2022-04-01 12:59:06,,,,CAT A,Health checkup,5894,2,7,3,Mitali
+Customer 53,KYC incomplete,2022-04-25 11:04:40,Market renewal,Care Health,2022-04-28 07:13:22,,,,,,,CAT D,GMC,1946144,1655,5,5,Sandeep
+Customer 54,Waiting on insurer to collect policy doc and invoices,2022-04-24 17:07:11,Fresh,Care Health,2022-04-25 10:11:55,2022-04-26 06:07:11,,,,,,CAT A,GMC,27388,17,6,3,Mitali
+Customer 55,Onboarding is complete,2022-01-31 08:11:32,Plum Renewal,Star Health,,,2022-02-07 11:52:28,2022-02-14 04:31:36,,,,"CAT B, CAT C",GMC,1423007,141,2,5,Sandeep
+Customer 56,Waiting on insurer to collect policy doc and invoices,2022-04-24 18:23:29,Fresh,Care Health,2022-04-25 17:11:14,2022-04-26 11:00:15,,,,,,CAT A,GMC,35322,14,1,2,Shree
+Customer 57,New task,2022-05-02 09:14:41,Market renewal,GoDigit,,,,,,,,CAT C,GTL,2047866,356,9,2,Shree
+Customer 58,Waiting on customer to schedule HR session,2022-03-11 04:27:02,Market renewal,Max Bupa,2022-03-11 09:49:28,2022-03-11 14:06:59,,,,,,CAT A,GPA,10184,5,2,2,Shree
+Customer 59,Waiting on customer to schedule HR session,2022-03-22 03:43:06,Plum Renewal,Max Bupa,2022-03-23 10:10:07,2022-03-25 16:24:39,,,,,,"CAT A, CAT B",GMC,125872,40,3,3,Mitali
+Customer 60,Onboarding is complete,2022-02-14 10:21:58,Fresh,Bajaj Allianz,2022-02-15 07:06:06,2022-02-16 08:28:51,2022-03-07 07:31:11,2022-03-09 09:34:24,,,,CAT A,GMC,121278,34,1,4,Kumar
+Customer 61,Onboarding is complete,2022-01-17 05:20:20,Market renewal,Care Health,,,,,,,,,GMC,115523,45,5,1,Gowri
+Customer 62,KYC incomplete,2022-04-22 04:19:30,Fresh,Aditya Birla,2022-04-22 10:24:54,,,,,,,CAT B,GMC,75419,10,6,5,Sandeep
+Customer 63,Onboarding is complete,2022-03-16 15:22:56,Fresh,GoDigit,2022-03-17 07:38:47,2022-03-17 12:27:38,,,,,,CAT A,GMC,16920,1,8,4,Kumar
+Customer 64,Onboarding is complete,2022-03-15 17:51:13,Plum Renewal,New India,,,,,,,,"CAT A, CAT B",GMC,209845,37,3,1,Gowri
+Customer 65,Waiting on insurer to collect policy doc and invoices,2022-03-31 10:58:38,Market renewal,New India,2022-03-31 13:07:50,2022-04-13 06:31:52,,,,,,CAT D,GMC,388224,420,3,3,Mitali
+Customer 66,Waiting on insurer to collect policy doc and invoices,2022-03-31 14:55:42,Market renewal,PNB Metlife,2022-04-03 14:44:34,2022-04-13 05:51:09,,,,,,CAT C,GTL,61708,287,7,4,Kumar
+Customer 67,Onboarding is complete,2022-01-03 10:02:28,Fresh,Care Health,2022-01-04 08:36:53,2022-01-06 12:37:36,,,,,,,GMC,40630,1,1,4,Kumar
+Customer 68,Onboarding is complete,2022-01-24 15:15:21,Fresh,Care Health,2022-01-25 08:22:21,2022-01-27 06:37:14,,,,,,CAT B,GMC,727970,15,9,2,Shree
+Customer 69,Onboarding is complete,2022-01-20 17:04:08,Fresh,GoDigit,2022-01-21 08:36:42,2022-01-24 17:26:44,,,,,,,GMC,27943,5,4,3,Mitali
+Customer 70,Waiting on insurer to collect policy doc and invoices,2022-03-29 08:43:47,Fresh,Care Health,2022-03-30 08:56:34,2022-04-05 04:14:43,,,,,,CAT A,GMC,9293,9,7,5,Sandeep
+Customer 71,Waiting on customer to schedule HR session,2022-04-17 08:48:51,Plum Renewal,ICICI Lombard,2022-04-18 07:29:32,2022-04-18 10:29:40,2022-04-22 11:27:07,2022-04-26 06:52:27,,,,CAT A,GMC,52591,19,2,1,Gowri
+Customer 72,Onboarding is complete,2022-01-31 05:28:24,Market renewal,New India,2022-01-31 16:14:55,2022-02-04 12:30:43,2022-02-10 09:54:39,2022-02-16 18:24:33,2022-02-16 18:24:33,2022-03-11 06:00:42,22.483438,"CAT C, CAT D",GMC,336865,413,6,3,Mitali
+Customer 73,Waiting on customer for employee training,2022-03-18 07:28:29,Fresh,Aditya Birla,2022-03-21 06:03:23,2022-03-23 09:01:49,,,,,,CAT A,GMC,39651,1,8,2,Shree
+Customer 74,Waiting on insurer to collect policy doc and invoices,2022-04-22 12:41:38,Market renewal,GoDigit,2022-04-25 08:54:21,2022-04-25 18:20:32,,,,,,"CAT A, CAT B",GMC,186616,21,10,1,Gowri
+Customer 75,Waiting on customer to schedule HR session,2022-04-26 17:57:46,Fresh,ICICI Lombard,2022-04-27 11:56:39,2022-04-28 05:30:39,2022-04-29 07:19:01,2022-05-02 06:52:30,,,,CAT B,GMC,32779,49,4,2,Shree
+Customer 76,Waiting on insurer to collect policy doc and invoices,2022-04-26 04:41:15,Fresh,Care Health,2022-04-26 07:30:37,2022-05-02 09:23:15,,,,,,CAT A,GMC,32256,12,10,1,Gowri
+Customer 77,Onboarding is complete,2022-03-25 12:55:15,Plum Renewal,ICICI Lombard,2022-03-28 14:48:30,2022-04-01 05:19:09,,,,,,"CAT B, CAT C",GMC,449311,127,10,4,Kumar
+Customer 78,Onboarding is complete,2022-02-01 03:33:40,Fresh,ICICI Lombard,2022-02-01 15:31:03,2022-02-03 14:09:00,2022-02-24 12:51:49,2022-03-02 04:28:38,,,,CAT A,GMC,85149,14,1,4,Kumar
+Customer 79,New task,2022-04-29 18:29:56,Fresh,Care Health,,,,,,,,CAT A,GMC,4379,3,7,2,Shree
+Customer 80,Waiting on customer to schedule HR session,2022-04-09 11:12:39,Fresh,ICICI Lombard,2022-04-10 19:32:40,2022-04-14 04:37:33,,,,,,CAT B,GMC,658070,38,3,5,Sandeep
+Customer 81,Waiting on insurer to collect policy doc and invoices,2022-04-24 16:01:39,Fresh,Care Health,2022-04-25 09:37:07,2022-04-27 10:05:45,,,,,,CAT B,GMC,201910,17,5,1,Gowri
+Customer 82,Onboarding is complete,2022-01-31 08:30:57,Plum Renewal,New India,2022-02-04 15:29:12,2022-02-22 18:45:31,,,,,,CAT C,GMC,2183633,977,9,3,Mitali
+Customer 83,Waiting on product,2022-04-06 07:26:49,Market renewal,Doctor Consultations,2022-04-07 05:36:12,2022-04-13 05:21:33,,,2022-04-20 07:33:34,,12.194942,CAT A,GMC,405121,53,2,3,Mitali
+Customer 84,Onboarding is complete,2022-01-24 10:21:07,Fresh,Star Health,2022-01-27 04:25:17,2022-02-02 04:02:24,,,,,,CAT B,GMC,239491,6,3,3,Mitali
+Customer 85,Waiting on insurer to collect policy doc and invoices,2022-04-21 09:43:42,Plum Renewal,Care Health,2022-04-22 04:43:01,2022-04-27 09:09:39,,,,,,CAT A,GMC,75245,12,9,4,Kumar
+Customer 86,Waiting on customer for employee training,2022-03-31 19:47:04,Fresh,ICICI Lombard,2022-04-01 07:52:04,2022-04-04 14:48:53,,,2022-04-08 07:03:09,2022-04-11 13:29:02,3.267975,CAT A,GMC,22397,21,1,3,Mitali
+Customer 87,Onboarding is complete,2022-03-24 13:57:11,Market renewal,GoDigit,,,,,,,,CAT A,GPA,2161,12,1,5,Sandeep
+Customer 88,Waiting on customer for CD balance,2022-03-17 14:34:59,Market renewal,GoDigit,2022-03-18 12:12:34,2022-03-21 16:31:47,2022-03-31 09:23:00,2022-04-13 07:15:05,2022-04-13 07:15:05,2022-04-25 04:47:07,11.897234,CAT A,GMC,42576,10,9,3,Mitali
+Customer 89,Onboarding is complete,2022-01-27 17:43:27,Fresh,Care Health,2022-01-28 09:51:12,2022-02-02 12:11:30,,,,,,CAT A,GMC,30914,8,4,1,Gowri
+Customer 90,New task,2022-04-29 18:56:53,Fresh,Care Health,,,,,,,,CAT A,GMC,56994,5,7,2,Shree
+Customer 91,Waiting on insurer to collect policy doc and invoices,2022-04-08 04:31:57,Plum Renewal,ICICI Lombard,2022-04-11 15:12:01,2022-04-22 13:20:56,,,,,,"CAT A, CAT B",GMC,111275,48,4,3,Mitali
+Customer 92,KYC incomplete,2022-04-05 10:55:24,Market renewal,GoDigit,2022-04-12 04:35:23,,,,,,,"CAT C, CAT D",GMC,10467128,768,4,5,Sandeep
+Customer 93,KYC incomplete,2022-04-05 10:55:22,Market renewal,GoDigit,2022-04-12 04:35:34,,,,,,,CAT C,GMC,161995,216,8,4,Kumar
+Customer 94,Waiting on insurer to collect policy doc and invoices,2022-04-25 04:53:33,Plum Renewal,ICICI Lombard,2022-04-25 17:04:50,2022-05-02 11:46:01,,,,,,CAT B,GMC,64580,87,7,1,Gowri
+Customer 95,Waiting on customer for employee training,2022-02-01 05:19:04,Fresh,ICICI Lombard,2022-02-08 21:03:16,2022-03-16 12:13:04,,,,,,"CAT A, CAT B",GMC,242920,9,9,2,Shree
+Customer 96,Onboarding is complete,2022-01-24 15:45:52,Fresh,Care Health,2022-01-25 07:38:54,2022-01-29 14:44:03,,,,,,CAT A,GMC,29870,4,2,5,Sandeep
+Customer 97,Waiting on insurer to collect policy doc and invoices,2022-03-21 18:33:35,Fresh,ICICI Lombard,2022-03-22 11:22:45,2022-03-24 12:12:49,,,,,,CAT B,GMC,173899,3,8,1,Gowri
+Customer 98,Waiting on insurer to collect policy doc and invoices,2022-04-07 11:50:12,Fresh,Care Health,2022-04-08 11:42:59,2022-04-18 06:59:44,,,,,,CAT A,GMC,33505,12,7,3,Mitali
+Customer 99,Onboarding is complete,2022-02-22 07:03:31,Fresh,Care Health,2022-02-22 11:56:23,2022-02-23 07:15:23,,,,,,CAT A,GMC,36203,11,5,4,Kumar
+Customer 100,Onboarding is complete,2022-01-12 07:24:13,Fresh,Care Health,2022-01-12 09:56:04,2022-01-19 09:07:17,,,,,,,GMC,295999,51,3,1,Gowri
